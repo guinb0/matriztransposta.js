@@ -1,5 +1,5 @@
 function transporMatriz(A) {
-    // Imprime a matriz original
+
     console.log("Matriz Original:");
     A.forEach(linha => console.log(linha.join(' ')));
     
